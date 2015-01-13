@@ -12,5 +12,6 @@
     <string name="pleaseEnterPassword">Please enter a password</string>
     <string name="confirm">Confirm:</string>
     <string name="pleaseConfirmPassword">Please confirm your password</string>
+    <string name="random">Random</string>
 
 </resources>

@@ -65,6 +65,7 @@
     <Button android:id="@+id/ok_button" android:text="@string/submit" android:layout_width="wrap_content"
         android:layout_height="wrap_content" android:textSize="32sp" android:layout_below="@id/confirmLayout"
         android:layout_alignRight="@id/confirmLayout"
+        android:layout_alignEnd="@id/confirmLayout"
         />
 
 
